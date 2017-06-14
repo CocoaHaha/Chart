@@ -1,0 +1,18 @@
+//
+//  CHart.pch
+//  图表Chart
+//
+//  Created by SXF on 2017/5/5.
+//  Copyright © 2017年 SXF. All rights reserved.
+//
+
+#ifndef CHart_pch
+#define CHart_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "PNChart.h"
+#import "PNChartDelegate.h"
+#define ARC4RANDOM_MAX      0x100000000
+
+#endif /* CHart_pch */
